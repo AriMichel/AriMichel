@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Machine Learning and IOT
 - 🌱 I’m currently learning ...
 - 💞️ Exploring Different Tools and Technological Concepts.
-- 📫 Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here: ari.michel.vu@gmail.com
+- 📫 Always open to collaboration on projects and innovative/disruptive ideas. Feel free to connect with me here: ari.michel.vu@gmail.com
 
 
 <!---
