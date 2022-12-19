@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @AriMichel
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI, Machine Learning and IOT
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- ![image](https://user-images.githubusercontent.com/114488633/208425409-26d0b936-53d7-48a0-a140-6068b36f08ad.png)
-Exploring Different Tools and Technological Concepts.
-- 📫  Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here: ari.michel.vu@gmail.com
+- 💞️ Exploring Different Tools and Technological Concepts.
+- 📫 Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here: ari.michel.vu@gmail.com
+
 
 <!---
 AriMichel/AriMichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
