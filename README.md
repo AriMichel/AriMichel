@@ -27,6 +27,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriMichel&langs_count=8)](https://github.com/AriMichel/github-readme-stats)
 
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-  ![Visitor Count](https : //profile-counter.glitch.me/{AriMichel}/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/{AriMichel}/count.svg)
