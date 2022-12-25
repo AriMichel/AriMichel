@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AriMichel&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriMichel&hide=TeX&layout=compact)
 
+https://coursera.org/share/f0d63c6ce1460ab9d0bad9047f27f983
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
