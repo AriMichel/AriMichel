@@ -30,8 +30,8 @@ CERTIFICATIONS
 
 Programming for Everybody (Getting Started with Python (https://coursera.org/share/f0d63c6ce1460ab9d0bad9047f27f983)
 
+Python for Data Structure (https://coursera.org/share/21ed12099100fe2a8ada695d30b7e611)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ![Visitor Count](https://profile-counter.glitch.me/{AriMichel}/count.svg)
