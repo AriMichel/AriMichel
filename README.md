@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AriMichel
 - 👀 I’m interested in AI, Machine Learning and IOT
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to survive!
 - 💞️ Exploring Different Tools and Technological Concepts.
 - 📫 Always open to collaboration on projects and innovative/disruptive ideas. Feel free to connect with me here: ari.michel.vu@gmail.com
 
