@@ -1,14 +1,18 @@
+# 💫 About Me:
+
 - 👋 Hi, I’m @AriMichel
 - 👀 I’m interested in AI, Machine Learning and IOT
 - 🌱 I’m currently learning how to survive!
 - 💞️ Exploring Different Tools and Technological Concepts.
 - 📫 Always open to collaboration on projects and innovative/disruptive ideas. Feel free to connect with me here: ari.michel.vu@gmail.com
-
+- 🔭 Currently working on APIs<br>
 
 <!---
 AriMichel/AriMichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# 💻 Tech Stack:
 ![Linux]( https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -25,16 +29,57 @@ You can click the Preview link to take a look at your changes.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=appveyor&logo=arduino&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AriMichel&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriMichel&hide=TeX&layout=compact)
+# 📊 GitHub Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AriMichel&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriMichel&theme=dark&hide=TeX&layout=compact) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=AriMichel&theme=dark&hide_border=false)<br/>
  <!--- https://ileriayo.github.io/markdown-badges/ --->
 
-CERTIFICATIONS
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AriMichel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## CERTIFICATIONS
 
 Programming for Everybody (Getting Started with Python (https://coursera.org/share/f0d63c6ce1460ab9d0bad9047f27f983)
 
 Python for Data Structure (https://coursera.org/share/21ed12099100fe2a8ada695d30b7e611)
 
 
-
 ![Visitor Count](https://profile-counter.glitch.me/{AriMichel}/count.svg)
+[![](https://visitcount.itsvg.in/api?id=AriMichel&icon=0&color=3)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AriMichel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AriMichel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ari-vazquez-uribe-93abb0212/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@AriMichel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AriMichel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AriMichel
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AriMichel) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AriMichel) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AriMichel) 
+
+) 
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=AriMichel)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AriMichel&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+
+
+
+
+
