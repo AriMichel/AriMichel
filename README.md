@@ -77,9 +77,6 @@ Python for Data Structure (https://coursera.org/share/21ed12099100fe2a8ada695d30
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=arimichel_V)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AriMichel&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
