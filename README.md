@@ -54,7 +54,7 @@ Programming for Everybody (Getting Started with Python (https://coursera.org/sha
 
 Python for Data Structure (https://coursera.org/share/21ed12099100fe2a8ada695d30b7e611)
 
-![Visitor Count](https://profile-counter.glitch.me/{AriMichel}/count.svg)
+
 [![](https://visitcount.itsvg.in/api?id=AriMichel&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
