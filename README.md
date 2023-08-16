@@ -7,6 +7,18 @@
 - 📫 Always open to collaboration on projects and innovative/disruptive ideas. Feel free to connect with me here: ari.michel.vu@gmail.com
 - 🔭 Currently working on APIs<br>
 
+## CERTIFICATIONS
+
+Training as Python Developer (DCI GmbH 09/2022 - 10/2023)
+
+Programming for Everybody (Getting Started with Python (https://coursera.org/share/f0d63c6ce1460ab9d0bad9047f27f983)
+
+Regular Expressions on Python (https://coursera.org/share/633507a101d51c097828bce68b992121)
+
+Introduction to Python (https://coursera.org/share/4b6df97ae468041ea7526cfb7f647b40)
+
+Python Data Structures (https://coursera.org/share/29e7c8a1923576d01a832702f71dab3c)
+
 
 
 # 💻 Tech Stack:
@@ -48,11 +60,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AriMichel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## CERTIFICATIONS
-
-Programming for Everybody (Getting Started with Python (https://coursera.org/share/f0d63c6ce1460ab9d0bad9047f27f983)
-
-Python for Data Structure (https://coursera.org/share/21ed12099100fe2a8ada695d30b7e611)
 
 
 [![](https://visitcount.itsvg.in/api?id=AriMichel&icon=0&color=3)](https://visitcount.itsvg.in)
